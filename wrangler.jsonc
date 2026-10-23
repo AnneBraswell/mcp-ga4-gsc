@@ -4,7 +4,7 @@
  */
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "mcp-ga4-gsc",
+  "name": "paintarthub-ga4-gsc",
   "main": "src/index.ts",
   "compatibility_date": "2025-03-10",
   "compatibility_flags": ["nodejs_compat"],
@@ -29,7 +29,7 @@
   "kv_namespaces": [
     {
       "binding": "OAUTH_KV",
-      "id": "2efa2ad87fad44b6933a7d62076e0f7e"
+      "id": "fe6585655645439c9035e5d65e094290"
     }
   ],
   "observability": {
